@@ -20,3 +20,5 @@ curl -sO https://raw.githubusercontent.com/avkarcr/grafana-prom-install/main/res
 curl -sO https://raw.githubusercontent.com/avkarcr/grafana-prom-install/main/install_node_exporter.sh && chmod +x install_node_exporter.sh
 ./install_node_exporter.sh
 ```
+### 5. Use these dashboards to monitor your servers: 1860, 15172, 11074
+If you find other usefull dashboards for monitoring several servers simultaneously - contact me pls )
